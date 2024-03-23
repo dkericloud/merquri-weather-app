@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/merquri-weather-app/static/css/main.3fe9fb6d.css",
+    "main.js": "/merquri-weather-app/static/js/main.011b1444.js",
+    "static/media/bg-dark.png": "/merquri-weather-app/static/media/bg-dark.c51266fb5a6cd7f28d8b.png",
+    "static/media/bg-light.png": "/merquri-weather-app/static/media/bg-light.8c350b8b1a79dfe77e95.png",
+    "index.html": "/merquri-weather-app/index.html",
+    "main.3fe9fb6d.css.map": "/merquri-weather-app/static/css/main.3fe9fb6d.css.map",
+    "main.011b1444.js.map": "/merquri-weather-app/static/js/main.011b1444.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fe9fb6d.css",
+    "static/js/main.011b1444.js"
+  ]
+}
